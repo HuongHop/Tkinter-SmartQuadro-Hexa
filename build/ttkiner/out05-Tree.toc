@@ -1,0 +1,5 @@
+('c:\\users\\exvsajo\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\chardet-3.0.4-py3.6.egg',
+ None,
+ {'*.so', '*.pyc', '*.py', '*.pyd', 'EGG-INFO', '*.pyo'},
+ 'DATA',
+ [])
